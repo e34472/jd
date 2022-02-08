@@ -1,1 +1,3 @@
-备份
+JB库备份，能用多久就用多久吧.....
+
+ql repo https://github.com/e34472/jd.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
